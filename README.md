@@ -1,6 +1,6 @@
 # Clonación de Interfaz de Google 🤔🤓
 
-## ✨ ÍNDICE ✨
+## ✨ ÍNDICE ✨ 
 
 * [1. Intro👀](https://github.com/AdriDMendoza/ClondeInterfazdeGoogle/blob/main/README.md#1-intro)
 * [2. Qué construí👀](https://github.com/AdriDMendoza/ClondeInterfazdeGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
